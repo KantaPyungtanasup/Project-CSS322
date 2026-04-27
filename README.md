@@ -185,7 +185,7 @@ Simplified visual feedback:
  3. Press **#**
    👉 **Complete.**
 **Full Setup (3 Doses):**
- * **A → Morning:** Set hours until the morning dose.
+ * **A → Morning:** Set hours until the noon dose.
  * **B → Afternoon:** Set interval from Noon to Evening.
  * **C → Evening:** Set interval from Evening to the next Morning.
 #### ▶️ **System Initialization**
